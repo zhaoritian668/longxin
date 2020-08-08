@@ -1,0 +1,2 @@
+register=http://www.aa668668.com/register.php
+open=http://www.aa668668.com/open.php
